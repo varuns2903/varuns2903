@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Varun  
+### 💻 Developer in Progress | 🎓 Student | 🔧 Builder  
 
-<!--
-**varuns2903/varuns2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+- 🌱 I’m currently learning **DevOps (Docker, Kubernetes)**  
+- 💡 Interested in **Competitive Programming, Full-Stack Development, and Open Source**  
+- ⚡ Fun fact: I can solve a Rubik’s Cube 🧩  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+**Languages:** Python, Java, JavaScript (Node js), C/C++  
+**Frontend:** React, Next.js  
+**Backend:** Express.js, MongoDB, MySQL, PostgreSQL, Socket.IO  
+**Other:** Git, Linux, Docker  
+
+---
+
+## 📊 GitHub Stats  
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varuns2903&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varuns2903&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-s-0b492a264/)  
+
+---
+⭐️ From [Varun](https://github.com/varuns2903)
