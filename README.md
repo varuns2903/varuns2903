@@ -20,7 +20,6 @@
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varuns2903&layout=compact)  
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varuns2903)](https://github.com/varuns2903/github-readme-stats)
 ---
 
 ## 🌐 Connect With Me  
