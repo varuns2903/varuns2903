@@ -39,8 +39,8 @@ Dual-stream detector **F1 = 0.937** · U-Net++ segmentation **Dice = 0.92** · 1
 
 | Project | Stack | Description |
 |---|---|---|
-| [faas-engine](https://github.com/varuns2903/faas-engine) | FastAPI · Docker · gVisor | Self-hosted FaaS platform with warm container pooling, rate limiting, API key auth & CI/CD |
 | [distributed-logging-system](https://github.com/varuns2903/distributed-logging-system) | Kafka · Elasticsearch · Kibana | Scalable log aggregation pipeline with real-time anomaly detection |
+| [faas-engine](https://github.com/varuns2903/faas-engine) | FastAPI · Docker · gVisor | Self-hosted FaaS platform with warm container pooling, rate limiting, API key auth & CI/CD |
 | [Ecommerce-MVC](https://github.com/varuns2903/Ecommerce-MVC) | Spring Boot · MongoDB · Stripe | Role-based shop with Spring Security auth and Stripe payment integration |
 | [Socket-Chat](https://github.com/varuns2903/Socket-Chat) | React · Node.js · Socket.IO | Real-time chat app with private/group messaging and live presence indicators |
 
