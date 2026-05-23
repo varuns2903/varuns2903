@@ -22,10 +22,6 @@ I build backend systems — microservices, event-driven pipelines, and distribut
 
 **Software Development Engineer Intern** — *SIXT R&D India* (Jan – May 2026)
 - Worked on a microservices platform delivering email, SMS & WhatsApp notifications to customers globally
-- Fixed a PII exposure risk in deep links using UUID token masking + gRPC resolution + rate limiting
-- Migrated a Kafka event listener between services and ran a cron job to move ~500K DB records
-- Extended SFMC event payloads with new DTO fields to support evolving email template designs
-- Built a REST integration to supply customer rental context to an AI conversational platform
 
 ---
 
